@@ -47,7 +47,7 @@ export const navBarConfig: NavBarConfig = {
 		{
 			name: "追番",
 			url: "https://bgm.tv/anime/list/peyoite233", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
+			external: false, // Show an external link icon and will open in a new tab
 		},
 	],
 };
